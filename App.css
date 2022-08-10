@@ -1,0 +1,13 @@
+.App {
+  background-color:bisque;
+  padding: 50px;
+  text-align:left;
+  font-style: italic;
+  align-content:stretch;
+  flood-color: darkgreen;
+  color: aquamarine;
+}
+
+h2{
+  color: darkblue;
+ }
